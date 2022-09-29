@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.baner,.stopka{
+    background-color: #AF4448;
+    color: white;
+    text-align: center;
+    height: 20px;
+}
+
+.lewy,.prawy{
+    background-color: #FFA4A2;
+    height: 650px;
+    width: 50%;
+}
+
+main{
+    display: flex;
+}
+
+h4{
+    margin: 0;
+}
+
+.btn{
+    background-color: #AF4448;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+}

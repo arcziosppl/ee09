@@ -1,0 +1,75 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.logo,.menu{
+    background-color: #63AC74;
+    color: orange;
+    height: 140px;
+    width: 50%;
+    text-align: right;
+    font-size: 160%;
+}
+
+header{
+display: flex;
+}
+
+.main{
+    background-color: #E3F6E7;
+    height: 500px;
+    padding: 20px;
+}
+
+.pierwszy,.drugi,.trzeci,.czwarty{
+    background-color: #63AC74;
+    height: 150px;
+    width: 25%;
+}
+
+a{
+    margin-top: 20px;
+}
+
+fotter{
+    display: flex;
+}
+
+.a1{
+    color: orange;
+    margin: 15px;
+}
+
+table{
+    border: 0xp;
+    width: 100%;
+    border-color: #E3F6E7;
+}
+table,td{
+    border: 1px solid #E3F6E7;
+}
+
+.td1{
+    background-color: #63AC74;
+    color: white;
+    text-align: center;
+}
+
+.td2{
+    text-align: center;    
+    background-color:#63AC74;
+    color: white;
+}
+.td3{
+    text-align: right;
+}
+
+.tab2{
+    border: 2px solid green;
+}
+
+.edata{
+    color: orange;
+    margin-left: 10px;
+}
+
